@@ -1,0 +1,32 @@
+_repo: On-the-Wings-of-Fate_71205
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rowlands, Effie Adelaide
+    aliases:
+    - Albanesi, E. Maria
+    - Albanesi, Effie Adelaide Maria
+    birthdate: 1866
+    deathdate: 1936
+    gutenberg_agent_id: '36830'
+    url: http://www.gutenberg.org/2009/agents/36830
+    wikipedia: http://en.wikipedia.org/wiki/Effie_Adelaide_Rowlands
+description: ''
+gutenberg_issued: '2023-07-16'
+identifiers:
+  gutenberg: '71205'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:704215#?c=&m=&s=&cv=&xywh=-111%2C-564%2C2205%2C4020
+pgterms:marc905: 20220331171645rowlands
+pgterms:marc906: '1904'
+pgterms:marc907: us
+production_note: Demian Katz, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aUnited States :$bStreet & Smith, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: On the Wings of Fate
+url: http://www.gutenberg.org/ebooks/71205
