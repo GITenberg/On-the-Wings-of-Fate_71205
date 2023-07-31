@@ -1,5 +1,8 @@
 _repo: On-the-Wings-of-Fate_71205
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71205-h/images/cover.jpg
 creator:
   author:
     agent_name: Rowlands, Effie Adelaide
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36830
     wikipedia: http://en.wikipedia.org/wiki/Effie_Adelaide_Rowlands
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71205#On-the-Wings-of-Fate
 gutenberg_issued: '2023-07-16'
 identifiers:
   gutenberg: '71205'
